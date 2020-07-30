@@ -3,6 +3,7 @@ import pygame
 
 screen_w = 800
 screen_h = 600
+h = 0
 
 # Create the window
 screen = pygame.display.set_mode((screen_w,screen_h))
