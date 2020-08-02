@@ -1,4 +1,4 @@
-# Running Game
+# Jumping Game
 ## My first pygame ever!
 
 So this is my first ever made pygame were I tried to replicate the dinosaur game that is in the chrome browser. 
