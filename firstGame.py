@@ -176,7 +176,7 @@ def scoreUpdate(game):
 
 # Function that increases the speed every 1000 score
 def speedUpdate(game, enemylist):
-	if game.score >= 3000 * game.speedMultiplier:
+	if game.score >= 2000 * game.speedMultiplier:
 		game.speedMultiplier += 1
 		for enemy in enemylist:
 			enemy.setVel(enemy.vel + 1)
