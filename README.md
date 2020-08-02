@@ -3,6 +3,9 @@
 
 So this is my first ever made pygame were I tried to replicate the dinosaur game that is in the chrome browser. 
 I think I made a fairly good job! However, the enemy spawning could be improved as well as a couple of other things. But as a first game I should be satisfied as this point.
+
+I started following a tutorial on youtube on how to make a pygame. Of course, I tweeked the making to my liking so it would be more of a challenge than to just copy everything from the tutorial. The youtube channel is called Tech with Tim and you can click the [link](https://www.youtube.com/watch?v=i6xMBig-pP4&list=PLzMcBGfZo4-lp3jAExUCewBfMx3UZFkh5) for the tutorial.
+
 Perhaps I will make a second iteration of the game and improve some stuff.
 
 ## Instructions
